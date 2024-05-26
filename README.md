@@ -6,7 +6,6 @@ Oyunda oyunculara rehberlik eden sevimli bir karakterimiz de bulunmaktadır. Bu 
 Bu yapı, oyuncuların hem hızlı düşünme hem de matematiksel becerilerini geliştirmelerine yardımcı olurken, aynı zamanda bir yarışma ve başarı hissi yaratır. Projenin temel hedefi, matematik öğrenimini oyunlaştırarak, özellikle çocukların ve gençlerin matematiğe olan ilgisini artırmak ve onları bu alanda motive etmektir.
 ## Oyunun Genel Hatları : 
 Oyunum 3 boyutlu bir dünyada geçmektedir. Karakterimiz bir piramide tırmanmaktadır. Sorular 5 saniyede kaybolarak hafızayı içeriği olarak matematiksel beceriyi çalıştırırken süre ile dikkati korur
+![GitHub Rehberi](https://github.com/eylulcemredeligoz/egypt_game/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-26%20211732.png)
 ![GitHub Rehberi](https://github.com/eylulcemredeligoz/egypt_game/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-26%20211651.png)
 ![GitHub Rehberi](https://github.com/eylulcemredeligoz/egypt_game/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-26%20211713.png)
-![GitHub Rehberi](https://github.com/eylulcemredeligoz/egypt_game/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-26%20211732.png)
-![GitHub Rehberi](https://github.com/eylulcemredeligoz/egypt_game/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-26%20211732.png)
