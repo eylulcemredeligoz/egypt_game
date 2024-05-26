@@ -11,3 +11,5 @@ Oyunum 3 boyutlu bir dünyada geçmektedir. Karakterimiz bir piramide tırmanmak
 ![GitHub Rehberi](https://github.com/eylulcemredeligoz/egypt_game/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-26%20211713.png)
 ![GitHub Rehberi](https://github.com/eylulcemredeligoz/egypt_game/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-26%20211746.png)
 [Proje Tanıtım Videosu](https://github.com/eylulcemredeligoz/egypt_game/blob/main/img/WhatsApp%20Video%202024-05-26%20saat%2021.23.14_97dd5af7.mp4)
+[Link Metni](https://youtu.be/Qa88oOB5FuI?si=iXV-6_BGU1MBGOb6)
+
